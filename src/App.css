@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Poppins:wght@300&family=Raleway+Dots&display=swap');
+
+.light-bg {
+  background-image: url("./images/background-image-xlight.png");
+}
+
+.profilepic {
+  background-image: url('./images/contact-profile-image.jpg');
+}
+
+.handwriting {
+  font-family: 'Homemade Apple', cursive;
+}
+
+.railway {
+  font-family: 'Raleway Dots', cursive;
+}
+
+i {
+  color: white;
+}
